@@ -38,7 +38,7 @@ You can install these packages using pip:
 ## Videos
 Three videos are generated, showcasing the transformations with each iteration for the VGG19, ViT, and InceptionV3 models. These videos provide a fascinating look at how each model perceives and transforms the input image.
 ![DeepDream Prince GIF](deepdream_prince.gif)
-![DeepDream Prince 2 GIF](deepdream_prince2.gif)
+![DeepDream Prince 2 GIF](deepdream_paris.gif)
 ![DeepDream Wallpaper GIF](deepdream_wallpaper.gif)
 
 ## License
