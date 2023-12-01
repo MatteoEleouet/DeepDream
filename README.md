@@ -36,8 +36,10 @@ You can install these packages using pip:
 - **your_image.jpg** : Example input image (replace with your image).
 
 ## Videos
-Four videos are generated, showcasing the transformations with each iteration for the VGG19, ViT, and InceptionV3 models. These videos provide a fascinating look at how each model perceives and transforms the input image.
-
+Three videos are generated, showcasing the transformations with each iteration for the VGG19, ViT, and InceptionV3 models. These videos provide a fascinating look at how each model perceives and transforms the input image.
+![DeepDream Prince GIF](deepdream_prince.gif)
+![DeepDream Prince 2 GIF](deepdream_prince2.gif)
+![DeepDream Wallpaper GIF](deepdream_wallpaper.gif)
 
 ## License
 This project is open-sourced under the MIT License. See the LICENSE file for more details.
