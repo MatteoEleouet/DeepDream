@@ -5,7 +5,7 @@ This project showcases the application of the DeepDream algorithm using differen
 
 Three gif are generated, showcasing the transformations with each iteration for the VGG19, ViT, and InceptionV3 models. These videos provide a fascinating look at how each model perceives and transforms the input image.
 ![DeepDream Prince GIF](deepdream_prince.gif)
-![DeepDream Paris GIF](deepdream_paris.gif)
+![DeepDream Paris GIF](deepdream_paris02.gif)
 ![DeepDream Wallpaper GIF](deepdream_wallpaper.gif)
 
 ## DeepDream Algorithm
