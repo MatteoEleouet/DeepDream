@@ -52,7 +52,8 @@ This project is inspired by the work of Alexander Mordvintsev, Christopher Olah,
   author={Mordvintsev, Alexander and Olah, Christopher and Tyka, Mike},
   year={2015},
   url={https://research.googleblog.com/2015/06/inceptionism-going-deeper-into-neural.html}
-}```
+}
+```
 
 ```bibtex
 @article{simonyan2014very,
@@ -60,7 +61,8 @@ This project is inspired by the work of Alexander Mordvintsev, Christopher Olah,
   author={Simonyan, Karen and Zisserman, Andrew},
   journal={arXiv preprint arXiv:1409.1556},
   year={2014}
-}```
+}
+```
 
 ```bibtex
 @article{szegedy2016rethinking,
@@ -68,7 +70,8 @@ This project is inspired by the work of Alexander Mordvintsev, Christopher Olah,
   author={Szegedy, Christian and Vanhoucke, Vincent and Ioffe, Sergey and Shlens, Jon and Wojna, Zbigniew},
   journal={arXiv preprint arXiv:1512.00567},
   year={2016}
-}```
+}
+```
 
 ```bibtex
 @article{dosovitskiy2020image,
@@ -76,4 +79,5 @@ This project is inspired by the work of Alexander Mordvintsev, Christopher Olah,
   author={Dosovitskiy, Alexey and Beyer, Lucas and Kolesnikov, Alexander and Weissenborn, Dirk and Zhai, Xiaohua and Unterthiner, Thomas and Dehghani, Mostafa and Minderer, Matthias and Heigold, Georg and Gelly, Sylvain and others},
   journal={arXiv preprint arXiv:2010.11929},
   year={2020}
-}```
+}
+```
