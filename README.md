@@ -46,4 +46,10 @@ This project is open-sourced under the MIT License. See the LICENSE file for mor
 ## Acknowledgments
 This project is inspired by the work of Alexander Mordvintsev, Christopher Olah, and Mike Tyka on DeepDream. The implementation utilizes PyTorch, OpenCV, and other open-source software.
 
-
+```bibtex
+@article{mordvintsev2015inceptionism,
+  title={Inceptionism: Going Deeper into Neural Networks},
+  author={Mordvintsev, Alexander and Olah, Christopher and Tyka, Mike},
+  year={2015},
+  url={https://research.googleblog.com/2015/06/inceptionism-going-deeper-into-neural.html}
+}```
